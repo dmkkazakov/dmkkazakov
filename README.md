@@ -1,14 +1,34 @@
-# Dmitry Kazakov
-CIB / corporate groups / credit intelligence.
+# Дмитрий Валерьевич Казаков · Dmitry Kazakov
 
-Я собираю банк корпоративных клиентов как граф:
-владение → денежные потоки → потребности и возможности → структура сделки и credit memo.
+**Корпоративный банкинг · AI и системы принятия решений · управление технологическими изменениями**
 
-Публичное — sanitized research и прототипы. Боевые контуры остаются внутри периметра банка.
+[English](README.en.md) · [Опыт и кейсы](profile/CAREER_CASES.md) · [Публикации](profile/RESEARCH.md)
 
-### Start here
-1. [CIB Group Intelligence Copilot](https://github.com/dmkkazakov/cib_group_intelligence_copilot) — граф группы и черновик credit memo
-2. [Execution-Aware Causal Credit Structuring](https://github.com/dmkkazakov/Execution-Aware-Causal-Credit-Structuring) — риск как свойство сети исполнения
-3. [CIB as a Graph dataset](https://github.com/dmkkazakov/Part-1-of-Handbook-of-CIB-Business-Modeling_cib-graph) — синтетика к working paper
+Работаю с задачами, в которых нужно связать бизнес, риск, данные и разработку: как принять кредитное решение, определить цену сделки, увидеть кассовый разрыв или разобраться в структуре группы компаний. Веду изменения от постановки задачи до внедрения и оценки результата. Для проверки идей пишу код и собираю исследовательские прототипы.
 
-[Habr](https://career.habr.com/Dmkkazakov) · [SSRN](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=10959908) · [LinkedIn](https://www.linkedin.com/in/dmkkazakov)
+Исполнительный директор Сбера; ранее — ВТБ и Газпромбанк. Академический руководитель программы «Технологии искусственного и дополненного интеллекта» Университета НЕЙМАРК. Кандидат технических наук. [Банковский опыт](https://career.habr.com/dmkkazakov) · [Роль в Неймарке](https://neimark-it.ru/experts).
+
+## С чего начать
+
+| Проект | Задача | Материалы |
+|---|---|---|
+| **CreditPrice Agent** | Цена корпоративного кредита с учётом заёмщика, отношений с клиентом и состояния баланса банка | [Код и воспроизводимые эксперименты](https://github.com/dmkkazakov/credit-price-agent) · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7427102) |
+| **Infra Cashflow Agent** | Помесячный денежный поток инфраструктурного проекта, кассовые разрывы и ограничения финансирования | [Код, сценарии и проверки](https://github.com/dmkkazakov/-infra-cashflow-agent) · [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7666020) |
+| **Corporate Groups with MCP and an Agent Harness** | Реконструкция корпоративных групп по публичным источникам с проверяемым происхождением утверждений | [Рукопись, пять публичных кейсов и код](https://github.com/dmkkazakov/group-data-copilot/tree/main/research/mcp_harness) |
+
+Исследовательские репозитории содержат открытые прототипы. Эксперименты на синтетических данных и разбор публичных раскрытий отдельно обозначены в каждом проекте. Они не являются банковскими производственными системами или подтверждением эффекта у работодателя.
+
+## Исследовательские направления
+
+- Корпоративное кредитование, цена риска и ограничения баланса.
+- Графы корпоративных групп, транзакций и цепочек исполнения.
+- Проверяемые агентные системы, MCP и воспроизводимость вычислений.
+- AI engineering и подготовка специалистов, способных довести модель до рабочего процесса.
+
+Текущая академическая аффилиация: **NEIMARK University, Nizhny Novgorod, Russia**. Публикации и программные проекты отражают авторскую работу; аффилиация сама по себе не означает финансирование или одобрение результатов университетом.
+
+## Профили
+
+[Хабр Карьера](https://career.habr.com/dmkkazakov) · [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=10959908) · [ORCID](https://orcid.org/0009-0002-6670-3705) · [LinkedIn](https://www.linkedin.com/in/dmkkazakov) · [Telegram](https://t.me/dmkkazakov)
+
+Единый идентификатор: **dmkkazakov**. Английское имя автора: **Dmitry Kazakov**.
